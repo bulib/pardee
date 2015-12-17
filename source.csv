@@ -1,0 +1,13 @@
+so_id,s_title,location,type,u_type,s_url,g_url,ezpx
+1,MarketLine (Formerly Datamonitor),Business Source Complete,online,direct,,,yes
+2,Encyclopedia of American Industries,Gale Virtual Reference Library,online,indirect,http://go.galegroup.com.ezproxy.bu.edu/ps/infomark.do?action=interpret&source=gale&eisbn=9781414486864&prodId=GVRL&userGroupName=bost84371&type=aboutBook&version=1.0&authCount=1&u=bost84371,,
+5,Hoovers Industry Snapshots,Lexis Nexis,online,indirect,http://www.lexisnexis.com.ezproxy.bu.edu/us/lnacademic/api/version1/sr?shr=t&sfi=AC00NBGenSrch&csi=3746&sr=Industry+Snapshots,,
+8,Mergent,Mergent,online,indirect,http://www.mergentonline.com.ezproxy.bu.edu/compsearch.asp?type=indreports&sortby=undefined&Industry=any&Region=10&startmonth=01&startyear=2003&endmonth=12&endyear=2007,http://www.bu.edu/library/guides/pml/industrysl/helpmefind.html#mergent,
+28,Mintel,Mintel,Online,indirect,http://academic.mintel.com/,,yes
+35,National Restaurant Association,Pardee Library Services Desk,print,indirect,,,
+55,Standard & Poors Industry Surveys,Standard & Poors NetAdvantage,online,indirect,http://www.netadvantage.standardandpoors.com.ezproxy.bu.edu/,,
+63,Source OECD,Source OECD,online,direct,,,
+11,Value Line Research Center Online,Value Line Research Center Online,online,indirect,http://www3.valueline.com.ezproxy.bu.edu/is/rc.aspx,,
+69,First Research Industry Reports,ABI-Inform,online,indirect,http://search.proquest.com.ezproxy.bu.edu/abicomplete/browseterms/firstResearch?accountid=9676,,
+70,IBISWorld Industry Reports,IBISWorld,online,indirect,http://clients1.ibisworld.com.ezproxy.bu.edu/reports/us/industry/home.aspx,,
+71,IBISWorld US Specialized Industry Reports,IBISWorld,online,indirect,http://clients1.ibisworld.com.ezproxy.bu.edu/reports/us/specializedreports/home.aspx,,
